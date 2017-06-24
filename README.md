@@ -1,6 +1,6 @@
 Warehouse React.js
 
-
+#### you will also need to install and run RESTful-API- server  https://github.com/polinazolotukhina/RESTful-API
 
 Clone : 
 ```javascript
@@ -29,5 +29,5 @@ $ npm start
 
  
 
-#### you will also need to install and run RESTful-API- server  https://github.com/polinazolotukhina/-RESTful-API-
+#### you will also need to install and run RESTful-API- server  https://github.com/polinazolotukhina/RESTful-API
 
