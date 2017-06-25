@@ -31,7 +31,7 @@ p{
 
 }
 .item{
-  width: 20%;
+  /*width: 20%;*/
   position: relative;
     min-height: 1px;
     padding-right: 15px;
@@ -40,3 +40,19 @@ p{
     box-sizing: border-box;
     display:block;
 }
+
+
+/* Small Devices, Tablets */
+   @media only screen and (min-width : 768px) {
+     .item{
+       width: 50%;
+     }
+
+   }
+   /* Medium Devices, Desktops */
+   @media only screen and (min-width : 992px) {
+     .item{
+       width: 20%;
+     }
+
+   }
